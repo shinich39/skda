@@ -74,9 +74,9 @@ h1 {
 
 #c2-container{
   position: absolute;
-  left: 0;
+  left: 10%;
   top: 0;
-  width: 60%;
+  width: 50%;
   height: calc(100% - 256px);
   z-index: 1001;
   -webkit-transition: opacity 1s;
